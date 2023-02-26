@@ -1,7 +1,7 @@
 # ConsDRED-SMPC
 A novel and interpretable trajectory tracker integrating a Constrained Distributional Reinforced-disturbance-estimator (ConsDRED) for unknown aerodynamic effects into a Stochastic Model Predictive Controller (SMPC)
 
-## Video for practical implementation 
+## Video for Practical Implementation 
 Youtube: https://www.youtube.com/watch?v=h1E7k3R-clg
 
 or Bilibili: https://www.bilibili.com/video/BV1w24y1n7mp/?spm_id_from=333.999.0.0&vd_source=dd110bcc02e945d8498193391788d2d6
