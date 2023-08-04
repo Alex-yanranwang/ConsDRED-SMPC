@@ -12,8 +12,9 @@ Simultaneously accurate and reliable tracking control for quadrotors in complex 
 ## Reference
 Yanran Wang, David Boyle
 
-Trustworthy Reinforcement Learning for Quadrotor UAV Tracking Control Systems
-Revised title as: Constrained Reinforcement Learning using Distributional Representation for Trustworthy Quadrotor UAV Tracking Control
+Constrained Reinforcement Learning using Distributional Representation for Trustworthy Quadrotor UAV Tracking Control
+
+Original title: Trustworthy Reinforcement Learning for Quadrotor UAV Tracking Control Systems
 
 ArXiv 2023
 
