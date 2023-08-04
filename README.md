@@ -14,7 +14,7 @@ Yanran Wang, David Boyle
 
 Constrained Reinforcement Learning using Distributional Representation for Trustworthy Quadrotor UAV Tracking Control
 
-Original title: Trustworthy Reinforcement Learning for Quadrotor UAV Tracking Control Systems
+(Original title: Trustworthy Reinforcement Learning for Quadrotor UAV Tracking Control Systems)
 
 ArXiv 2023
 
