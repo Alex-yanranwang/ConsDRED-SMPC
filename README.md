@@ -36,7 +36,7 @@
 
 ## Practical Implementation on a real quadrotor
 <p align="center">
-  <img src="docs/shortVideo.gif" >
+  <img src="docs/shortVideo.gif" style="width: 200%; height: auto;">
 </p>
 
 
