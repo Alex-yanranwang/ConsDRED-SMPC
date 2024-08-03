@@ -1,4 +1,4 @@
-<h1 align="center">Constrained Reinforcement Learning using Distributional Representation for Trustworthy Quadrotor UAV Tracking Control</h1>
+<h1 align="center">Constrained RL using Distributional Representation for Trustworthy Quadrotor UAV Tracking Control</h1>
 <p align="center">
     <a href="https://alex-yanranwang.github.io/">Yanran Wang</a><sup>*</sup></span>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://profiles.imperial.ac.uk/david.boyle">David Boyle</a><sup></sup>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
