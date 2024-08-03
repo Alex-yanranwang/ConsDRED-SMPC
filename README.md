@@ -36,26 +36,25 @@
 
 ## Practical Implementation on a real quadrotor
 <p align="center">
-  <img src="docs/shortVideo.gif" style="width: 200%; height: auto;">
+  <img src="docs/shortVideo.gif" style="width:150%;">
 </p>
 
 
 ## BibTeX
 <div class="container is-max-desktop content">
-<pre><code>@InProceedings{wang24probabilistic,
-    title = {Probabilistic Constrained Reinforcement Learning with Formal Interpretability},
-    author = {Wang, Yanran and Qian, Qiuchen and Boyle, David},
-    booktitle = {Proceedings of the 41st International Conference on Machine Learning},
-    pages = {51303--51327},
-    year = {2024},
-    volume = {235},
-    series = {Proceedings of Machine Learning Research},
-    publisher = {PMLR}
-  }</code></pre>
+<pre><code>@article{wang2024constrained,
+      title={Constrained Reinforcement Learning Using Distributional Representation for Trustworthy Quadrotor UAV Tracking Control},
+      author={Wang, Yanran and Boyle, David},
+      journal={IEEE Transactions on Automation Science and Engineering},
+      year={2024},
+      publisher={IEEE},
+      pages={1-18},
+      doi={10.1109/TASE.2024.3432405}
+    }</code></pre>
 </div>
 If you find this repository helpful, please cite our paper and give us a star!
 
 ## Acknowledgements
 <div class="container is-max-desktop content">
-    This work was partially supported by NSF-UKRI [grant number NE/T011467/1]; and the Engineering and Physical Sciences Research Council [grant number EP/X040518/1].
+    This work was supported in part by the National Science Foundation (NSF)-UK Research and Innovation (UKRI) under Grant NE/T011467/1 and in part by the Engineering and Physical Sciences Research Council under Grant EP/X040518/1.
   </div>
