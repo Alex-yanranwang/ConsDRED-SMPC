@@ -27,9 +27,8 @@
   <img src="docs/RL_Control_framework.jpg" style="width:50%;">
 </p>
 
-## TODOs
-- [ ] 📣 Toturial of the practical quadrotor implementation will be released soon!
-
+## Practical Implementation of an autonomous aerial robot.
+- [ ] 📣 Toturial (including the code and all the detailed configuration) of a real quadrotor has been released: [A-Framework-for-Robot-Autonomy](<https://github.com/Alex-yanranwang/A-Framework-for-Robot-Autonomy.git>)
 
 ## Abstract
 <p align="justify">Simultaneously accurate and reliable tracking control for quadrotors in complex dynamic environments is challenging. The chaotic nature of aerodynamics, derived from drag forces and moment variations, makes precise identification difficult. Consequently, many existing quadrotor tracking systems treat these aerodynamic effects as simple `disturbances' in conventional control approaches. We propose a novel and interpretable trajectory tracker integrating a distributional Reinforcement Learning (RL) disturbance estimator for unknown aerodynamic effects with a Stochastic Model Predictive Controller (SMPC). Specifically, the proposed estimator `Constrained Distributional REinforced-Disturbance-estimator' (ConsDRED) effectively identifies uncertainties between the true and estimated values of aerodynamic effects. Control parameterization employs simplified affine disturbance feedback to ensure convexity, which is seamlessly integrated with the SMPC. We theoretically guarantee that ConsDRED achieves an optimal global convergence rate, and sublinear rates if constraints are violated with certain error decreases as neural network dimensions increase. To demonstrate practicality, we show convergent training, in simulation and real-world experiments, and empirically verify that ConsDRED is less sensitive to hyperparameter settings compared with canonical constrained RL. Our system substantially improves accumulative tracking errors by at least 70%, compared with the recent art. Importantly, the proposed ConsDRED-SMPC framework balances the trade-off between pursuing high performance and obeying conservative constraints for practical implementations.</p>
